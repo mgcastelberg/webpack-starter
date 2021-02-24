@@ -4,6 +4,6 @@ export const saludar = (nombre)=>{
     console.log('Creando etiqueta H1');
 
     const h1 = document.createElement('h1');
-    h1.innerText = `Hola, ${nombre} ¿comó estas?`;
+    h1.innerText = `Hello ${nombre}, welcome to the matrix`;
     document.body.append(h1);
 }

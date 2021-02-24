@@ -1,6 +1,6 @@
 import { saludar } from './js/componente.js';
 import './styles.css';
 
-const nombre = 'Manuel!!!';
+const nombre = 'ManuxDark';
 
 saludar(nombre);
